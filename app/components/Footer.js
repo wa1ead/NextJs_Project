@@ -6,7 +6,7 @@ export default function Footer() {
           Walid DRAA
         </a>
         <p className="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-900 sm:py-2 sm:mt-0 mt-4">
-          © 2020 Tailblocks —
+          © 2025 —
           <a
             href="https://linkedin.com/in/wa1ead"
             className="text-gray-200 ml-1"
